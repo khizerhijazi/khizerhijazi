@@ -28,5 +28,4 @@ Feel free to explore my repos, raise issues, or reach out for collaboration idea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-> “Good architecture fades into the background, bad architecture makes noise.”  
+> “Code is the most opinionated form of writing.”
