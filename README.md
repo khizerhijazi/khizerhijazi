@@ -5,7 +5,7 @@
 
 ## About Me
 
-I started my web development journey after completing a one-year MERN stack bootcamp. As a part of my React.js roadmap, I’ve also worked on individual projects that involved integrating MongoDB and Firebase.
+I started my web development journey after completing a one-year MERN stack bootcamp, ensuring a full stack development expertise.
 
 My expertise lies in between **modern JavaScript frameworks** (React ,Next.js, etc.) and **backend & API systems** (Node.js, MongoDB, etc.). I work alongside teams as well as independently, designing, developing and launching applications that solve real life problems.
 
