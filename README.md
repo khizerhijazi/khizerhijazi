@@ -24,7 +24,7 @@ My expertise lies in between **modern JavaScript frameworks** (React ,Next.js, e
 - Email: [Mail Me](mailto:khizarraza126@gmail.com)
 - GitHub: [github.com/ashirhash](https://github.com/khizerhijazi/)
 
-My inbox is always open. Whether you have a question or just want to say hi. Feel free to explore my repos, raise issues, or reach out for collaboration ideas.
+Feel free to explore my repos, raise issues, or reach out for collaboration ideas.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
