@@ -20,9 +20,9 @@ My expertise lies in between **modern JavaScript frameworks** (React ,Next.js, e
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect With Me
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/khizarhijazi/)  
+- LinkedIn: [in/khizerhijazi](https://www.linkedin.com/in/khizerhijazi/)  
 - Email: [Mail Me](mailto:khizarraza126@gmail.com)
-- GitHub: [github.com/ashirhash](https://github.com/khizerhijazi/)
+- GitHub: [github.com/khizerhijazi](https://github.com/khizerhijazi/)
 
 Feel free to explore my repos, raise issues, or reach out for collaboration ideas.
 
